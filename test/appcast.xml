@@ -4,16 +4,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>YouTube Downloader</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 19 Nov 2026 11:04:33 +0300</pubDate>
-            <sparkle:version>20261119080413</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Thu, 19 Nov 2026 11:09:43 +0300</pubDate>
+            <sparkle:version>20261119080922</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tospuklan/youtube-downloader-releases/releases/download/test-1.0.0-20261119080413/YouTube-Downloader-test-1.0.0-20261119080413.zip" length="117562121" type="application/octet-stream" sparkle:edSignature="LoHZ2eGd0HMaOh+C+vo2EqIYrPNQQOB7gBmXH5gA6smyOovAktCvjbrjJyoiChNN5Y1cH5u/lTFosZuBAqLDAg=="></enclosure>
+            <enclosure url="https://github.com/tospuklan/youtube-downloader-releases/releases/download/test-1.0.1-20261119080922/YouTube-Downloader-test-1.0.1-20261119080922.zip" length="117565353" type="application/octet-stream" sparkle:edSignature="PgeRXPqrsXCoRGtBhtLqTXjz1X1JcM8ZtgmsiDdxr5gAGziq4lXQePiI6NPTIQ1wUQZ1IqsKPOP7g219ayM+Dg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oQp0ZVK6f/OrwMXp/Ckxg4OZuQWmdXIoBedSJ9UVp6r+qqu9poKr290nyFhnGLndtRpwSK9cme1CVNVqxpWWCw==
+edSignature: 1uAdRomBNbtOgFFa4SGxw0TsaYPI0sJHNDHtkEOUsmGx46nMFjn+bRqga9i40TScyQ0WpY8m/xtVFJYLYafjCg==
 length: 1214
 -->
